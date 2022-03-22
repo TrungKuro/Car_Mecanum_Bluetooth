@@ -5,7 +5,7 @@
 
 ### Function
 
-Code cho khung xe 4 bánh Mecanum, dùng board **Arduino Uno**
+Code cho khung xe 4 bánh Mecanum, dùng board **Vietduino Uno** (tương thích Arduino Uno)
 
 Điều khiển bằng **Bluetooth** *Hc-05 hoặc Hc-06*
 
@@ -20,7 +20,7 @@ Dùng app Android *"Arduino Bluetooth RC Car"* - tác giả **Andi.Co**
 
 ### Function
 
-Code cho khung xe 4 bánh Mecanum, dùng board **Arduino Uno**
+Code cho khung xe 4 bánh Mecanum, dùng board **Vietduino Uno** (tương thích Arduino Uno)
 
 Điều khiển bằng **Bluetooth** *JDY-33*
 
@@ -31,6 +31,8 @@ Dùng app *"Dabble"* - nhóm **STEMpedia**, chạy được trên cả Android l
 #### Link down app
 + https://apps.apple.com/us/app/dabble-bluetooth-controller/id1472734455
 + https://play.google.com/store/apps/details?id=io.dabbleapp&hl=vi&gl=US
+
+## Tutorial
 
 ### Link hướng dẫn làm khung xe (P1) - Giải thích nguyên lý bánh xe Mecanum
 + https://www.makerlab.vn/huong-dan-lap-rap-khung-xe-robot-chasiss-black-cat-mecanum-p1/
